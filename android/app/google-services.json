@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114826548102",
+    "project_id": "rnfirestoreapp-c322c",
+    "storage_bucket": "rnfirestoreapp-c322c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114826548102:android:94dac1fcf458fc47cfd207",
+        "android_client_info": {
+          "package_name": "com.rnfirestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVdjbjJpzj9ooWITf81XNDYeolmbowOl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
